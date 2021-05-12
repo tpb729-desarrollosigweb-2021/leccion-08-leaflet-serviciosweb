@@ -10,5 +10,5 @@ La clase [TileLayer.WMS](https://leafletjs.com/reference-1.7.1.html#tilelayer-wm
 
 **Ejercicios**  
 1. Cree un mapa en Leaflet que incorpore capas de los siguientes servicios WMS:  
-  a. [Sistema Nacional de Información Territorial (SNIT)](https://www.snitcr.go.cr/)  
-  b. [Mundialis](https://www.mundialis.de/)
+  a. [Sistema Nacional de Información Territorial (SNIT)](https://www.snitcr.go.cr/servicios_ogc_completo)  
+  b. [Mundialis](https://www.mundialis.de/en/ows-mundialis/)
