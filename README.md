@@ -1,5 +1,5 @@
 # Leaflet - acceso a servicios web
-[Leaflet](https://leafletjs.com/) ...
+[Leaflet](https://leafletjs.com/) proporciona acceso a servicios WMS mediante la clase TileLayer.WMS.
 
 ## Clases del API de Leaflet
 
