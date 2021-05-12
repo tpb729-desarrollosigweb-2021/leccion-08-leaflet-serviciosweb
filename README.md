@@ -18,6 +18,7 @@ var capa_distritos = L.tileLayer.wms('http://geos.snitcr.go.cr/be/IGN_5/wms?', {
   transparent: true
 }).addTo(mapa);
 
+// Se agrega al control de capas como de tipo "overlay"
 control_capas.addOverlay(capa_distritos, 'Distritos');
 ```
 
